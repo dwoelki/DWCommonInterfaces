@@ -15,6 +15,6 @@ public interface ISocializeEventFeeder {
     
     public boolean sendInvitation(String _invitationDescription);
     
-    public void receiveAnswerOnInvitation(Object _answerObject);
+    public void receiveAnswerOnInvitation(String _originalInvitationDescription, Object _answerObject);
     
 }
