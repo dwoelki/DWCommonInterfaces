@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 AutoUpdate-Show-In-Client: true
 OpenIDE-Module: de.woelki_web.socialize/0
-OpenIDE-Module-Implementation-Version: 20191213
+OpenIDE-Module-Implementation-Version: 20191219
 OpenIDE-Module-Localizing-Bundle: de/woelki_web/socialize/Bundle.properties
 
